@@ -23,6 +23,7 @@ h3{
   background-repeat: no-repeat;
   position: relative;
   text-transform: capitalize;
+  overflow: hidden;
 }
 .nav {
   width: 100%;
